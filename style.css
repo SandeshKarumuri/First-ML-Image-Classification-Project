@@ -93,6 +93,7 @@ body {
 
 /* stuff for 2nd word */
 .logo .word2 {
+  color:white;
   z-index: 0; /* stack 2nd word below */
 }
 .logo .word2:before {
